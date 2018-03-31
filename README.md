@@ -1,7 +1,7 @@
 ## Palestras Ministradas
 Palestras, minicursos e afins...
 
-## -- 2016
+## 2016
 
 ### INCLUDE 2016
 
@@ -17,7 +17,7 @@ Palestras, minicursos e afins...
 * Local: Universidade do Estado do Rio Grande do Norte (UERN), Natal/RN
 * Slides: https://goo.gl/pX1J9w
 
-## -- 2014
+## 2014
 
 ### FLISOL 2014
 
@@ -26,7 +26,7 @@ Palestras, minicursos e afins...
 * Local: Instituto Federal do Rio Grande do Norte (IFRN), Natal/RN
 * Slides: https://goo.gl/pJFVYT
 
-## -- 2013
+## 2013
 
 ### FLISOL 2013
 
