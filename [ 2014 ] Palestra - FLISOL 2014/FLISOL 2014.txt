@@ -1,0 +1,46 @@
+[ NASA OPEM SOURCE: O ESPAÇO É O LIMITE ]
+      
+
+#1 Nasa aborta a missão Windows:(Anunciou em mai de 2013 )
+		
+	- ASTRONAUTAS RECEBERAM TREINAMENTO LINUX (Parceria com a Linux Fundation)
+	- ROBONAUT (R2) E ISS RODA LINUX DESDE 2013
+		- Site Robonaut http://robonaut.jsc.nasa.gov/
+
+#2 NASA irá liberar código de mais de 1.000 projetos de software [Apartir de 10 de Abril 2014] 
+		- CÓDIGO ABERTO ESPACIAL		
+		- Entre eles o Módulo Lunar da Apollo 11 
+		- http://code.nasa.gov/project/
+		- DARPA: http://www.darpa.mil/OpenCatalog/index.html
+
+#3 E EU COM ISSO? NÃO QUERO IR NEM MANDAR NINGUÉM PRO ESPAÇO MESMO!
+
+-> FRASE FINAL: "A terra é Azul", mas nossas telas não precisam ser. :P
+		
+# 1 
+
+A Nasa, agência espacial americana, decidiu migrar os sistemas dos computadores da Estação Espacial Internacional (ISS, na sigla em inglês) do Windows para Linux. O objetivo, diz a agência, é ter um sistema operacional confiável, com bom desempenho e de baixo custo.
+
+A Nasa acredita que os funcionários precisam de um sistema estável e confiável que possa ser modificado conforme as necessidades. Além disso, considera difícil ter suporte técnico a quase 400 quilômetros da Terra, onde está a ISS.
+
+Os astronautas da ISS e funcionários da área de TI usarão computadores portáteis com Debian 6, codinome "Squeeze" da distribuição comercial livre do Linux.
+
+Robonaut (R2), projetado para assumir algumas responsabilidades dos astronautas, que utilizarão computadores portáteis com Debian 6, codinome "Squeeze" da distribuição comercial livre do Linux.
+
+Ele ainda destacou que a capacidade do Linux ajudará os desenvolvedores da NASA a garantir que o R2 possa ser produtivo na ISS.
+
+
+# 2
+
+A NASA vai liberar o código de diversos dos seus projetos de softwares criados ao longo da sua história. Não estamos falando aqui apenas de softwares como os responsáveis pelos sistemas de seus foguetes, e sim também sistemas robóticos, criogênicos e até simuladores climáticos.
+
+A agência espacial norte-americana liberou há alguns anos o código do sistema de orientação e do módulo lunar da Apollo 11, mas foi só o começo. A partir da semana que vem, a NASA disponibilizará um catálogo online com mais de 1.000 dos seus projetos, com guias para ajudar pessoas a adaptarem os códigos para outros fins que não sejam o original desenvolvido pelos engenheiros da agência.
+
+
+# 3 
+
+Talvez você não tenha interesse em um sistema de orientação de foguetes, mas os códigos da NASA podem ser usados para outras coisas. Em 2005, por exemplo, biólogos marinhos adaptaram o algoritmo de mapeamento estelar do telescópio Hubble para rastrear e identificar tubarões-baleia em perigo. O software foi adaptado novamente e agora rastreia ursos polares no Ártico e peixes-lua nas Ilhas Galápagos.
+
+"O novo site representa uma extensão natural dos esforços da NASA para informar, educar e incluir o público em nossa missão de manter o pioneirismo na exploração espacial do futuro, nas descobertas científicas e na pesquisa aeronáutica," afirmou Deborah Diaz, chefe de TI da NASA.
+
+Segundo ela, o envolvimento dos cidadãos nesse trabalho é um componente importante desse sucesso - neste caso, no envolvimento de cidadãos programadores de computador.
