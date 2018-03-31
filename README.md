@@ -1,5 +1,5 @@
-# Palestras Ministradas
-
+## Palestras Ministradas
+Palestras, minicursos e afins...
 
 ## -- 2016
 
