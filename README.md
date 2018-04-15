@@ -1,6 +1,15 @@
 ## Palestras Ministradas
 Palestras, minicursos e afins...
 
+## 2018
+
+### Campus Party Natal
+
+* Palestra: Cybugs - Avanço ou Ameaça?
+* Data: 
+* Local: Centro de Convenções, Natal/RN
+* Slides: 
+
 ## 2016
 
 ### INCLUDE 2016
