@@ -8,7 +8,7 @@ Palestras, minicursos e afins...
 * Palestra: Cybugs - Avanço ou Ameaça?
 * Data: 
 * Local: Centro de Convenções, Natal/RN
-* Slides: 
+* Slides: https://goo.gl/jENs9M
 
 ## 2016
 
