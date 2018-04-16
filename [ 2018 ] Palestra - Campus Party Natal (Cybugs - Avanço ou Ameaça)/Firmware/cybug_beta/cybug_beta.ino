@@ -38,10 +38,6 @@ void loop() {
   }
 
   switch(data) {
-    case 'F':
-      stimulateRightAndLeft();
-      data = '0';
-      break;
     case 'L':
       stimulateLeft();
       data = '0';
@@ -57,21 +53,6 @@ void loop() {
 
 
 /* PUBLIC FUNCTIONS ************************************************/
-
-// stimulates the cockroach's the two antennas -> cockroach moves on.
-void stimulateRightAndLeft() {
-  for(int i = 0; i < 3; i++) {
-    Serial.println("RIGHT");
-    tone(pinAntennaRight, STIMULATION_FREQUENCY_HZ);
-    delay(FRONT_STIMULATION_SIMULATION_PERIOD);
-    noTone(pinAntennaRight);
-
-    Serial.println("LEFT");
-    tone(pinAntennaLeft, STIMULATION_FREQUENCY_HZ);
-    delay(FRONT_STIMULATION_SIMULATION_PERIOD);
-    noTone(pinAntennaLeft);
-  }
-}
 
 // stimulates the cockroach's left antenna -> cockroach turns right.
 void stimulateLeft() {
