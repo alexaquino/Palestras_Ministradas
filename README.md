@@ -6,7 +6,7 @@ Palestras, minicursos e afins...
 ### Campus Party Natal
 
 * Palestra: Cybugs - Avanço ou Ameaça?
-* Data: 
+* Data: 13/04/2018
 * Local: Centro de Convenções, Natal/RN
 * Slides: https://goo.gl/xAogvM
 
