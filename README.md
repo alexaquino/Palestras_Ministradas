@@ -3,6 +3,13 @@ Palestras, minicursos e afins...
 
 ## 2018
 
+### 1º Meetup GrupyRN
+
+* Palestra: "Programando" Arduino com Python
+* Data: 02/06/2018
+* Local: IMD, Natal/RN
+* Slides: https://goo.gl/VFdgir
+
 ### Campus Party Natal
 
 * Palestra: Cybugs - Avanço ou Ameaça?
