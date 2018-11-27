@@ -3,6 +3,13 @@ Palestras, minicursos e afins...
 
 ## 2018
 
+### 3ª Conferência Potiguar de Software Livre
+
+* Palestra: "Arduino: Que o lado python do firmata esteja com você”
+* Data: 24/11/2018
+* Local: SEBRAE, Natal/RN
+* Slides: https://goo.gl/WhCW6Z
+
 ### 1º Meetup GrupyRN
 
 * Palestra: "Programando" Arduino com Python
